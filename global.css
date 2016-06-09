@@ -63,6 +63,10 @@ height: 100%;
 padding: 0;
 }
 
+p {
+	margin: auto;
+}
+
 a{
 color: #fff;
 text-decoration: none;
